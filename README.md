@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/Xclowns9/umbrela-tools
 cd umbrela-tools
-sh um.sh
+sh umbrel.sh
 ```
 
 # Screenshot
