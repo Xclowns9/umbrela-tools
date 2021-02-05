@@ -5,10 +5,16 @@
 # How to install
 
 ```
-https://github.com/Xclowns9/umbrela-tools
+git clone https://github.com/Xclowns9/umbrela-tools
 cd umbrela-tools
 sh um.sh
 ```
+
+# Tested On
+
+* ***Termux***
+
+* ***Ubuntu***
 
 # Screenshot
 <br>
