@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Not recode!
+#Please just learn:)
 clear
 
 echo $red "
